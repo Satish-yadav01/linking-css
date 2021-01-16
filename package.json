@@ -1,0 +1,18 @@
+{
+    "name": "linking-css",
+    "version": "1.0.0",
+    "description": "linking css",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "express-ejs-layouts": "^2.5.0",
+        "express-layout": "^0.1.0"
+    }
+}
